@@ -11,6 +11,7 @@ namespace Git_Frida
         static void Main(string[] args)
         {
             Console.WriteLine("Testing testing!");
+            Console.WriteLine("Vad blir det till lunch?");
         }
     }
 }
